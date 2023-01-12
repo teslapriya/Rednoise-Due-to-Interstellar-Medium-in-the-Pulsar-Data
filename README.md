@@ -1,2 +1,2 @@
 # RedNoise
-This project is aimed to develope an algorithm for FPGA accelerator so that it can filter out rednoise from the pulsar data which we will receive.
+This project is aimed to develope an algorithm for Intel Agilex FPGA Accelerator so that it can reduce red noise from the pulsar search data.
